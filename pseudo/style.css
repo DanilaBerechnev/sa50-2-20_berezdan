@@ -35,6 +35,8 @@
 }
 .button2:hover{
     background-color: purple;
+    width: 100px;
+    height: 200px;
 }
 .phrase2 {
     width: 68px;
@@ -45,4 +47,28 @@
     font-size: 24px;
     line-height: 29px;
     color:#000000;
+}
+.button3 {
+    width: 185px;
+    height: 51px;
+    background: #5D5FEF;
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 10px
+}
+.button3:active {
+    background: red;
+    border-radius: 25.5px;
+}
+.phrase3 {
+    width: 68px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#000000; 
 }

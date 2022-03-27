@@ -1,0 +1,23 @@
+.css {
+    display: flex;
+    justify-content: center;
+}
+.button1 {
+    height: 50px;
+    width:  200px;
+    background: linear-gradient(108.62deg, #5D5FEF 20.49%, #7879F1 46.52%, #A5A6F6 78.55%, #A5A6F6 78.55%);
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phrase1 {
+    width: 85px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#000000;
+}

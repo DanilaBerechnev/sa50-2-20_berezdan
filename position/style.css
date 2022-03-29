@@ -10,7 +10,7 @@
 .cube1 {
     height: 100px;
     width: 100px;
-    border: .10px solid red ;
+    background-color: red;
     position: relative;
     top: 100px;
     left: 100px;
@@ -18,16 +18,16 @@
 .cube2 {
     height: 100px;
     width: 100px;
-    border: .10px solid purple;
+    background-color: purple;
     position: relative;
-    top: 125px;
-    left: 225px;
+    top: 75px;
+    left: 175px;
 }
 .cube3 {
     height: 100px;
     width: 100px;
-    border: .10px solid blue;
+    background-color: blue;
     position: relative;
-    top: 150px;
-    left: 350px;
+    top: 50px;
+    left: 250px;
 }

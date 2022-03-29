@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.open {
+
+}
+.cube1 {
+    height: 100px;
+    width: 100px;
+    border: .10px solid red ;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.cube2 {
+    height: 100px;
+    width: 100px;
+    border: .10px solid purple;
+    position: relative;
+    top: 125px;
+    left: 225px;
+}
+.cube3 {
+    height: 100px;
+    width: 100px;
+    border: .10px solid blue;
+    position: relative;
+    top: 150px;
+    left: 350px;
+}

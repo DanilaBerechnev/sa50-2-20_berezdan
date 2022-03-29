@@ -8,24 +8,28 @@
 
 }
 .cube1 {
-    height: 500px;
-    width: 1000px;
+    height: 50px;
+    width: auto;
     background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: .10px solid black;
 }
 .cube2 {
-    height: 150px;
-    width: 150px;
-    background-color: white;
+    height: auto;
+    width: auto;
+    border: .10px solid blue;
     position: relative;
-    bottom: 450px;
-    left: 50px;
-    z-index: 1;
+    top: 50px;
 }
-.cube3 {
-    height: 150px;
-    width: 150px;
-    background-color: white;
-    position: relative;
-    bottom: 350px;
-    left: 700px;
+.phrase1 {
+    color: white;
+    width: 250px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
 }

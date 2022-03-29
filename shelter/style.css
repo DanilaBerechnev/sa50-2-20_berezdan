@@ -36,3 +36,67 @@
     letter-spacing: 0.1em;
     color: #FFFFFF;
 }
+.phrase3 {
+    position: relative;
+    bottom: 808px;
+    left: 797px;
+    width: 180px;
+    height: 15px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.phrase4 {
+    position: relative;
+    bottom: 822px;
+    left: 946px;
+    width: 180px;
+    height: 15px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.phrase5 {
+    position: relative;
+    bottom: 836px;
+    left: 1039px;
+    width: 180px;
+    height: 15px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.phrase6 {
+    position: relative;
+    bottom: 851px;
+    left: 1180px;
+    width: 180px;
+    height: 15px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
